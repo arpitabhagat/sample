@@ -1,11 +1,14 @@
-# sample
-Firstly, the user is directed to the log in page where they will be asked for their credentials. If the credentials match, the user is logged in, or else they receive a pop up message “the user is invalid”.
-The system admin can perform CRUD operations on the person, patient, doctor, community, hospital. Doctor a person can only be created if the user already registered.
-When the patient logs in, they can visit a doctor’s profile and create vitals for booking the appointment. The patient can also view the vitals and encounters that have been created.
-When a doctors logs in. they create, read, and update the encounters of the patient. Along with that, they can also perform create and update operations on vitals created by the patient. 
-Community admin can create city, community and houses in the system.![WhatsApp Image 2022-11-02 at 16 33 55](https://user-images.githubusercontent.com/67430896/199603063-ea125800-03c3-46ba-a819-dc4807596aed.jpeg)
-![WhatsApp Image 2022-11-02 at 16 33 55 (3)](https://user-images.githubusercontent.com/67430896/199603064-e2f7e2c0-1319-4e32-8a73-c09b2a2e7e2a.jpeg)
-![WhatsApp Image 2022-11-02 at 16 33 55 (2)](https://user-images.githubusercontent.com/67430896/199603065-cf745310-d6c3-4d05-938c-7077a787a49e.jpeg)
-![WhatsApp Image 2022-11-02 at 16 33 55 (1)](https://user-images.githubusercontent.com/67430896/199603066-6b1c8d2c-1775-45b4-ade8-8d9724166861.jpeg)
+# MedicalResource
+This application is a platform for people to find medical resource in different city and community.
 
+The system Admin first logs in and creates a City, Community, House, Person, Hospital, Patient and Doctor. They can perform CRUD operations on each of these components.
+The system Admin may also perform CRUD operations on patients vitals.
 
+The patient can login and view his/her profile and edit it. They may also book an appointment with a doctor from a given hospital in a given community and city.
+
+The doctor can login, view appointments as well as his/her own profile. A doctor can also add vital signs for a patient.
+
+Community Admin can login and perform CRUD on Community, House, Hospital within a community.
+
+Hospital Admin can login and perform CRUD on Doctors and patients. They may also add Vitals for a patient.
+![Class Diagram](https://user-images.githubusercontent.com/67430896/199606469-5b2c2866-b98e-4da6-a8b6-28572e424a66.JPG)
