@@ -1,19 +1,22 @@
-Project’s Title: Hospital Management System
+#bhagat_arpita_002776356
 
-Project’s Description: This project gives a brief idea of the hospital management system inside a community where a System Administrator can create the person in a community and can also add patient and doctors in the portal. Where hospital admin can manage the patients and doctors, also community admin can add and edit communities inside a city. System Administrator has all the access to everything and can create edit delete update on community, patient, doctor, person.
+INFO 5100 Assignment 2 - Hospital Management System
 
-Note: To create this application only Java and Java swing is used for backend and UI.
+The Hospital Management System is a tool that is used by the hospitals to carry out operational activites. There are 5 logins that are provided. The System Admin, Community Admin, Hospital Admin, Patient and Doctor. 
+The System admin can perform CRUD( Create, Read, Update, Delete) Activites on details of the Doctors, Patients, Hospital and Encounters. 
+Hosptial Admin can CRU activites on the Doctor Details,Patients and Encounters. And apply CRUD on Hospital Details. 
+The Community Admin adds the communities to the cities.
+The Doctor can view the patient details along with View, Create or Update the Encounters. 
+The Patient has access to search for the hospital and the doctor. He also can view all his encounters and has the right to access and update his own personal details.
 
-How to install and Run the Project:
+**# How to run the code?**
 
-•	Download the zip files from Git hub repository
-•	Extract on your system.
-•	Use any IDE to import the project.
-•	Install json-simple-2.1.2.jar
+Clone the repo
 
-How to use the Projects:
+Install all dependencies
 
-Download the zip files from Git hub repository, unzip the file to your desired location. Import the project using any IDE. Download the required jars and Use JSON configuration file for getting the System Admin credentials.
+Run the code
 
-![ClassDiagram](https://user-images.githubusercontent.com/67430896/199862496-3726ffbb-aaac-4400-9f8e-18cd4c9ee7d4.jpg)
-![WhatsApp Image 2022-11-03 at 20 53 19](https://user-images.githubusercontent.com/67430896/199862160-d64e16dc-4895-4e82-8238-bb3c1ba588c7.jpeg)
+Class Diagram link : https://drive.google.com/file/d/15o4XRTHm7XSi7N2K_cm2iGh9CA0ElOoZ/view?usp=share_link
+
+Sequence Diagram link: https://drive.google.com/file/d/1obuZOe4l73ecPN6e1MuN9NliTcZ_01bk/view?usp=share_link
