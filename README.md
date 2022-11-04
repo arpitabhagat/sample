@@ -17,6 +17,8 @@ Install all dependencies
 
 Run the code
 
-Class Diagram link : https://drive.google.com/file/d/15o4XRTHm7XSi7N2K_cm2iGh9CA0ElOoZ/view?usp=share_link
+Class Diagram ![AED_Assignment2 drawio](https://user-images.githubusercontent.com/67430896/200076865-7ae0bfc5-462c-42b5-aa0f-bf7a5521dde5.png)
 
-Sequence Diagram link: https://drive.google.com/file/d/1obuZOe4l73ecPN6e1MuN9NliTcZ_01bk/view?usp=share_link
+
+Sequence Diagram ![AED_Assignment2_SequenceDiagram-Page-1 drawio](https://user-images.githubusercontent.com/67430896/200076890-59cb8f4f-c707-4f2d-a224-196304974e85.png)
+
